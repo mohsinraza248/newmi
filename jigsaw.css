@@ -312,9 +312,9 @@ input.btn.btn-small {
    /* Timer */
 #timer{
     border: 3px solid rgb(240, 236, 236);
-    padding-top: 20px;
+    padding-top: 10px;
     padding-right: 10px;
-    padding-bottom: 1px;
+    padding-bottom: 5px;
     padding-left: 10px;
 
   }
@@ -323,8 +323,8 @@ input.btn.btn-small {
     color: white;
     font-size:30px;
     text-align: center;
-    padding-top: 60px;
-    padding-right: 80px;
+    padding-top: 50px;
+    padding-right: 40px;
     padding-bottom: 50px;
-    padding-left: 80px;
+    padding-left: 40px;
   }
