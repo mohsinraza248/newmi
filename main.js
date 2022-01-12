@@ -11,7 +11,7 @@ if(randomNum == 0){
 	allimages = [
 		{
 			'name': 'pictures',
-			'images':['puzzle.png'], //120W
+			'images':['puzzle1.png'], //120W
 			'dir': ''
 		},
 	];
